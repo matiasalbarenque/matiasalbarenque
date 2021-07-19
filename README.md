@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Matías Albarenque
 - 👀 I’m interested in the Javascript ecosystem
-- 🌱 I’m currently learning React.js and Dart + Flutter for mobile Apps creation!
 - 📫 Contact me: matiasalbarenque@live.com.ar
