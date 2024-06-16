@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matías Albarenque
+- 👋 Hi, my name is Matías Albarenque
 - 🌎 I'm from Argentina
 - 👀 I’m interested in the Javascript ecosystem
 - 📫 Contact me: matiasalbarenque@live.com.ar
